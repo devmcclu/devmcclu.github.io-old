@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Devlin McClure
+layout: about
 ---
 # About Me
 
