@@ -1,6 +1,6 @@
 ---
 layout: about
-alt_title: About Me
+title: About Me
 ---
 
 I'm a freshman at Indiana University's Media School, currently studying Game Design.
