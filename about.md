@@ -3,7 +3,7 @@ layout: about
 title: About Me
 ---
 
-I'm a freshman at Indiana University's Media School, currently studying Game Design.
+I am a sophmore at Indiana University's Media School, currently studying Game Design and Computer Science.
 # Previous Work
 ## Northrop Game Club - October 2015 to May 2016
 
@@ -15,3 +15,7 @@ Indiana University's game production club, where I led a small team on a game id
 ## Project FreeGUN - February 2018 to Present
 
 A top-down 2D shooter in the Godot game engine. The goal of this game is to be an open source platform for others to build their games with, and to also be a complete game to play. Currently in a pre-alpha state to build up the core mechanics.
+
+## Gamedev @ IU: TechSIG Officer - July 2018 to Present
+
+Gamedev @ IU is Indiana University Bloomington's student organization for game developers, new and expereinced. As an Officer of the Tech Special Interest Group, I help create materials to teach students about topics in video game technology.
