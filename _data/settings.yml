@@ -62,10 +62,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'twitter', link: 'https://twitter.com/Devlin_McClure'}
+#- {icon: 'instagram', link: '#'}
+- {icon: 'github', link: 'https://github.com/devmcclu'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/devlin-mcclure/'}
+- {icon: 'envelope', link: 'mailto:mccluredt@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
