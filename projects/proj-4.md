@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'ESCAPE! A Game of Boxes'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+This is a game made in the first Hoosier Games Bi-weekly jams, with the theme "Outside the Box." The goal of the game is to get to the top of the level, of which there are four, by placing blocks in the level. This was an experimentation in the 2D physics of the Godot Engine.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+{% include image.html url="https://devlinmcclure.itch.io/escape-a-game-of-boxes" image="projects/proj-4/escape.png" %}
