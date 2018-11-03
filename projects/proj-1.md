@@ -8,4 +8,4 @@ Gamedev @ IU is Indiana University Bloomington's student organization for game d
 
 [GD@IU Website](http://gdiu.org/)
 
-{% include image.html url="http://gdiu.org/" image="projects/proj-1/GDUI_Logo.svg" %}
+{% include image.html url="http://gdiu.org/" image="projects/proj-1/GDUI_Logo.png" %}
