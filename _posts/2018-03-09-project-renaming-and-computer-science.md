@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Project Renaming, and Computer Science"
-date: 2018-03-09
 ---
 
 My recently started project "FreeGUN" is now called "Project FreeGUN." Fun changes, right? This was done because I thought it would make it a little clearer that this is just a small project, and not really a "full" game. Plus, it sounds a little better to me personally. This doesn't change much, or really anything, but documenting why I made changes seems appropriate.

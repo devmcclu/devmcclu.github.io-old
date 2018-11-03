@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "More Projects, Less Time"
-date: 2018-07-05
 ---
 
 It is already July. It doesn't feel like it at all. At least I have done some things with my time. Outside of family duties and such, I have been slowly working on Project FreeGUN. I don't know how much as actually changed since the last time I made a post, but it does feel like a well put together game, compared to where it was at the end of April. Character movement won't break the game later on, I have done my best to keep the code open for multiplayer once I feel the project has all core features implemented, and I feel so much more comfortable working in Godot. The documentation for Godot is amazing, and without it I would be lost. FreeGUN has been light on features lately though, and that is for good reason.

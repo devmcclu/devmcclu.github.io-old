@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Projects, New Takes"
-date: 2018-03-05
 ---
 
 I recently started my new project "FreeGUN" on a whim. I came up with the idea based on 4 factors:
