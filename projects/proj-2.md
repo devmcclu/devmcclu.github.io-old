@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Hoosier Games: Semester Team'
 ---
+#Hoosier Games: Semester Team - September 2017 to December 2017
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Indiana University’s game production club, where I led a small team on a game idea of my creation. I worked on setting goals for the team, helping program in Unity, and creating presentations at milestones. This project helped me learn project scope.
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
