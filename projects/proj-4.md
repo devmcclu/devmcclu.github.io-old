@@ -8,6 +8,6 @@ This is a game made in the first Hoosier Games Bi-weekly jams, with the theme "O
 #### Solo Project
 
 #### Tools used
-1. Godot Engine (GDScript)
+* Godot Engine (GDScript)
 
 {% include image.html url="https://devlinmcclure.itch.io/escape-a-game-of-boxes" image="projects/proj-4/escape.png" %}
