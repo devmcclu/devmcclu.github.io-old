@@ -7,6 +7,10 @@ Radial Runner is an endless runner based on the concept of rotating the platform
 
 #### Solo Project
 
+#### Features
+* Never ending levels
+* Fast paced, rotating gameplay
+
 #### Tools used
 * Unreal Engine 4 (Blueprints)
 
