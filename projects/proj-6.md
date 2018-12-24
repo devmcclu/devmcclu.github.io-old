@@ -7,6 +7,11 @@ Radical Flights is a single player time trial game where the player traverses le
 
 #### Solo Project
 
+#### Features
+* Several levels to fly around
+* Best time recorded for each level to come back and beat
+* Rocket jumping reminiscent of late 90s FPS games
+
 #### Tools used
 * Unreal Engine 4 (Blueprints)
 
