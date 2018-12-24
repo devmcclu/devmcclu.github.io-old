@@ -7,6 +7,13 @@ A top-down 2D shooter in the Godot game engine. The goal of this game is to be a
 
 #### Solo Project
 
+#### Planned Features
+* Networked Multiplayer
+* Several Game Modes
+  * Deathmatch
+  * Capture the Flag
+* AI Bots
+
 #### Tools used
 * Godot Engine (GDScript)
 
