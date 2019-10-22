@@ -15,4 +15,4 @@ Radical Flights is a single player time trial game where the player traverses le
 #### Tools used
 * Unreal Engine 4 (Blueprints)
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+{% include image.html url="https://devlinmcclure.itch.io/radical-flights" image="projects/proj-6/logo.jpg" %}
