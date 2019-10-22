@@ -15,4 +15,4 @@ As the Vice President of Gamedev@IU, I take care of high level task: coordinatio
 
 [GD@IU Website](http://gdiu.org/)
 
-{% include image.html url="http://gdiu.org/" image="projects/proj-1/GDUI_Logo.jpg" %}
+{% include image.html url="http://gdiu.org/" image="projects/proj-1/GDUI_Logo.png" %}
